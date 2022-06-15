@@ -1,1 +1,1 @@
-repo of projects i'm working on to improve my HTML & CSS skills
+repo of projects i'm working on to learn and improve HTML & CSS skills!
